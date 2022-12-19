@@ -1,0 +1,4 @@
+Name,Price,Quantity,Total
+Apple,100,3,300
+Banana,200,4,800
+Fanta,100,4,400
